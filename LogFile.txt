@@ -1,0 +1,6 @@
+2020-08-03 20:30:46.527 +02:00 [INF] Starting up service...
+2020-08-03 20:30:47.173 +02:00 [INF] Web server is up and running: "OK"
+2020-08-03 20:30:52.336 +02:00 [INF] Web server is up and running: "OK"
+2020-08-03 20:30:57.453 +02:00 [INF] Web server is up and running: "OK"
+2020-08-03 20:31:02.565 +02:00 [INF] Web server is up and running: "OK"
+2020-08-03 20:31:03.533 +02:00 [INF] The service has been stopped...
